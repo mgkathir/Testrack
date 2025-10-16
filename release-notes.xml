@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<release-notes>
+	<module name="UnifiedBureauAdaptor"/>
+	<release version = "1.0.3.1" date = "Sep 30, 2024" production="false">	
+		<change type="new-feature">
+			<reference type="cr">CR24-717</reference>
+			<title>Bureau Adaptor - Equifax DTEC Integration</title>
+			<description>
+				Code Changes for EFX-DTEC integration
+			</description>
+		</change>    
+	</release>	
+	<release version = "1.0.3.0" date ="Jun 04, 2024" production="true">	
+		<change type="bug-fix">
+			<reference type="bug">NA</reference>
+			<title>NA</title>
+			<description>
+				Add custom logic to send the Email triggering functionality when an error occurs.
+			</description>
+		</change>    
+	</release>	
+	<release version = "1.0.2.2" date ="Jun 03, 2024" production="false">	
+		<change type="bug-fix">
+			<reference type="bug">NA</reference>
+			<title>NA</title>
+			<description>
+				Add custom logic to send the Email triggering functionality when an error occurs.
+			</description>
+		</change>    
+	</release>
+	<release version = "1.0.2.1" date ="May 30, 2024" production="false">	
+		<change type="bug-fix">
+			<reference type="bug">NA</reference>
+			<title>NA</title>
+			<description>
+				Removed the Email triggering functionality when an error occurs.
+			</description>
+		</change>    
+	</release>
+	<release version = "1.0.2.0" date ="May 22, 2024" production="true">	
+		<change type="bug-fix">
+			<reference type="bug">CR24-332</reference>
+			<title>Handle Experian Authentication errors in Bureau Adaptor</title>
+			<description>
+				Issue with TU CTB where it was causing exception on parsing inquiry having multiple score models
+			</description>
+		</change>    
+	</release>	
+	<release version = "1.0.1.2" date ="May 14, 2024" production="false">	
+		<change type="bug-fix">
+			<reference type="bug">CR24-332</reference>
+			<title>Handle Experian Authentication errors in Bureau Adaptor</title>
+			<description>
+				Issue with TU CTB where it was causing exception on parsing inquiry having multiple score models
+			</description>
+		</change>    
+	</release>
+	<release version = "1.0.1.1" date ="Mar 25, 2024" production="false">	
+		<change type="bug-fix">
+			<reference type="bug">CR24-332</reference>
+			<title>Handle Experian Authentication errors in Bureau Adaptor</title>
+			<description>
+				Code Changes
+			</description>
+		</change>    
+	</release>
+	<release version = "1.0.1.0" date ="May 23, 2023" production="true">	
+		<change type="new-feature">
+			<reference type="cr">CR23-48</reference>
+			<title>XPN Adaptor Migration</title>
+			<description>
+				Implementation
+			</description>
+		</change>    
+		<change type="new-feature">
+			<reference type="cr">CR23-47</reference>
+			<title>EFX Adaptor Migration</title>
+			<description>
+				Implementation.
+			</description>
+		</change>    
+	</release>
+	<release version = "1.0.0.4" date ="Apr 26, 2023" production="false">	
+		<change type="new-feature">
+			<reference type="cr">CR23-188</reference>
+			<title>Unified Bureau Adaptor - SSN</title>
+			<description>
+				Code Changes : Initial Version
+			</description>
+		</change>    
+	</release>
+	<release version = "1.0.0.3" date ="Apr 03, 2023" production="false">	
+		<change type="new-feature">
+			<reference type="cr">CR23-48</reference>
+			<title>XPN Adaptor Migration</title>
+			<description>
+				Code Changes : Initial Version
+			</description>
+		</change>    
+	</release>
+	<release version = "1.0.0.2" date ="Mar 20, 2023" production="false">	
+		<change type="new-feature">
+			<reference type="cr">CR23-47</reference>
+			<title>EFX Adaptor Migration</title>
+			<description>
+				Optimization of Burau connections.
+			</description>
+		</change>    
+	</release>
+	<release version = "1.0.0.1" date ="Mar 06, 2023" production="false">	
+		<change type="new-feature">
+			<reference type="cr">CR23-47</reference>
+			<title>EFX Adaptor Migration</title>
+			<description>
+				Code Changes : Initial Version
+			</description>
+		</change>    
+	</release>
+	<release version = "1.0.0.0" date ="Oct 20, 2022" production="true">	
+		<change type="new-feature">
+			<reference type="cr">CR22-387</reference>
+			<title>TU Adaptor Migration</title>
+			<description>
+				TU Adaptor Migration
+			</description>
+		</change>    
+	</release>
+	<release version = "0.0.0.1" date ="Sep 27, 2022" production="false">	
+		<change type="new-feature">
+			<reference type="cr">CR22-387</reference>
+			<title>TU Adaptor Migration</title>
+			<description>
+				TU Adaptor Migration
+			</description>
+		</change>    
+	</release>
+</release-notes>
