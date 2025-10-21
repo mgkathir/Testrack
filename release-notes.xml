@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <release-notes>
 	<module name="UnifiedBureauAdaptor"/>
 	<release version = "1.0.3.1" date = "Sep 30, 2024" production="false">	
 		<change type="new-feature">
-			<reference type="cr">CR24-717</reference> scan
+			<reference type="cr">CR24-717</reference>
 			<title>Bureau Adaptor - Equifax DTEC Integration</title>
 			<description>
-				Code Changes for EFX-DTEC integrations
+				Code Changes for EFX-DTEC integration
 			</description>
 		</change>    
 	</release>	

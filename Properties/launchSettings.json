@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "BureauAdaptor": {
+      "commandName": "Project",
+      "commandLineArgs": "-SSN",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true
+    }
+  }
+}
